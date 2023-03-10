@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3bd3b58a.chunk.css",
+    "main.js": "/static/js/main.db79ec1b.chunk.js",
+    "main.js.map": "/static/js/main.db79ec1b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ecd91c00.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ecd91c00.js.map",
+    "static/js/2.fb53d3b8.chunk.js": "/static/js/2.fb53d3b8.chunk.js",
+    "static/js/2.fb53d3b8.chunk.js.map": "/static/js/2.fb53d3b8.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.3bd3b58a.chunk.css.map": "/static/css/main.3bd3b58a.chunk.css.map",
+    "static/js/2.fb53d3b8.chunk.js.LICENSE.txt": "/static/js/2.fb53d3b8.chunk.js.LICENSE.txt",
+    "static/media/RACHELLEANNFLAMENIO.517718b3.pdf": "/static/media/RACHELLEANNFLAMENIO.517718b3.pdf",
+    "static/media/avatar.020b9709.png": "/static/media/avatar.020b9709.png",
+    "static/media/typescript.916bfd85.svg": "/static/media/typescript.916bfd85.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ecd91c00.js",
+    "static/js/2.fb53d3b8.chunk.js",
+    "static/css/main.3bd3b58a.chunk.css",
+    "static/js/main.db79ec1b.chunk.js"
+  ]
+}
